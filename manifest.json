@@ -2,7 +2,7 @@
   "name": "RouteGenius",
   "short_name": "RouteGenius",
   "description": "AI Driven Path Optimization",
-  "start_url": "./index-osm.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3b82f6",
